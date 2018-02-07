@@ -1,0 +1,3 @@
+funk name: 银华富裕主题混合
+trade list:
+1.date: 2018-02-06, count: 100rmb, value: 2.8524
